@@ -1,4 +1,4 @@
-# Notebook-for-Kaggle-MoA-Competition
+# Notebook jupyter in python 3 -for-Kaggle-MoA-Competition:
 
 This Model have 3 main parts: 
 
